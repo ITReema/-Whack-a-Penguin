@@ -1,1 +1,1 @@
-# -Whack-a-Penguin
+# Whack-a-Penguin
